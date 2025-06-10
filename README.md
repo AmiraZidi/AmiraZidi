@@ -6,19 +6,21 @@ Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Develope
 
 ## 👀 About Me
 
-- 🎓 Graduated from the Higher Institute of Technological Studies of Gabès (ISET Gabès), Tunisia.
-- 🛡 Background in **Network Security** + strong roots in **web technologies**.
-- 💼 Former intern at **Tunisie Télécom** and **STEG**, where I honed my skills in client service and tech troubleshooting.
-- 🏆 Participated in AI competitions and bootcamps like **Polygon x Injaz AI Summer Camp**.
-- ✨ Currently building full-stack web apps and exploring the intersection of **tech, creativity**, and **user experience**.
+- 🎓 Degree in **Network Security** – ISET Gabès, Tunisia (2024)
+- 👩‍🏫 Bootcamp in **Software Development** – GoMyCode (Oct 2024 – Feb 2025)
+- 🌍 Freelance background in **digital marketing** and **web development**
+- 🧠 Strong in **problem-solving**, **project management**, and **teamwork**
+- 🗣 Fluent in Arabic (native), French, English, and Turkish
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 Technical Skills
 
 ```js
-Languages:  HTML, CSS, JavaScript, Python, C++, Java  
-Frameworks: React, Node.js, Express.js, Bootstrap, Tailwind CSS  
-Databases:  MongoDB, Firebase  
-Tools:      Git, GitHub, Postman, VS Code, Netlify, Vercel  
-Other:      SCSS, REST APIs, JWT, Agile, Responsive Design  
+Languages:     HTML, CSS, JavaScript, TypeScript, PHP, Python  
+Frameworks:    React.js, Next.js, Node.js, Express.js, Laravel  
+Libraries:     Redux, Axios, Mongoose  
+Databases:     MySQL (SQL), MongoDB (NoSQL)  
+Tools:         Git, GitHub, VS Code, Postman, Netlify, Vercel  
+Design:        Photoshop, Canva  
+Practices:     Agile (Scrum), REST APIs, JWT, Responsive Design 
