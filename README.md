@@ -1,17 +1,15 @@
-![Banner](./assets/banner.jpeg)
 # 👩‍💻 Amira Zidi | Full Stack MERN Developer 🚀
 
 Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Developer** with a strong foundation in the **MERN stack**, modern front-end design, and software security. I'm on a mission to turn ideas into impactful digital solutions that are user-centric, scalable, and beautifully crafted.
 
 ---
 
-## 👀 About Me
-
-- 🎓 Degree in **Network Security** – ISET Gabès, Tunisia (2024)
-- 👩‍🏫 Bootcamp in **Software Development** – GoMyCode (Oct 2024 – Feb 2025)
-- 🌍 Freelance background in **digital marketing** and **web development**
-- 🧠 Strong in **problem-solving**, **project management**, and **teamwork**
-- 🗣 Fluent in Arabic (native), French, English, and Turkish
+- 🎓 **Graduated in Network Security** – ISET Gabès, Tunisia *(Class of 2024)*  
+- 👩‍💻 **Full Stack Developer in training** – GoMyCode Bootcamp *(Oct 2024 – Feb 2025)*  
+- 🌐 **Freelancer turned builder** – From digital marketing strategies to complete web solutions  
+- 🧠 Known for being a **natural problem-solver**, an efficient **team player**, and a lover of **well-organized code**  
+- 🗣 I speak **four languages** fluently: Arabic 🇹🇳, French 🇫🇷, English 🇬🇧, and Turkish 🇹🇷 – bridging tech across cultures  
+- 💡 Passionate about merging **tech & creativity**, especially in EdTech, productivity tools, and digital branding  
 
 ---
 ### 💻 Languages  
@@ -48,14 +46,17 @@ Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Develope
 ### ✅ Methodologies  
 🔁 Agile (Scrum) ・ 🔐 JWT ・ 🔧 REST APIs ・ 📱 Responsive Design ・ 🧼 Clean Code
 ---
+## 📫 Let's Connect!
 
-## 📫 Let’s Connect!
+I'm always open to meaningful connections, collaborations, and coffee chats ☕  
+Feel free to reach out via:
 
 <p align="center">
-  <a href="www.linkedin.com/in/amira-zidi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amira_Zidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/amira-zidi" target="_blank" title="Let's connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:zidiamira290@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Amira_Zidi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  &nbsp;
+  <a href="mailto:zidiamira290@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
