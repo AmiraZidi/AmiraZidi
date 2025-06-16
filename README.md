@@ -14,13 +14,45 @@ Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Develope
 
 ---
 
-## 🧠 Technical Skills
+// 💻 Programming Languages
+Languages: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python"]
 
-```js
-Languages:     HTML, CSS, JavaScript, TypeScript, PHP, Python  
-Frameworks:    React.js, Next.js, Node.js, Express.js, Laravel  
-Libraries:     Redux, Axios, Mongoose  
-Databases:     MySQL (SQL), MongoDB (NoSQL)  
-Tools:         Git, GitHub, VS Code, Postman, Netlify, Vercel  
-Design:        Photoshop, Canva  
-Practices:     Agile (Scrum), REST APIs, JWT, Responsive Design 
+// ⚙️ Frameworks & Runtime Environments
+Frameworks: ["React.js", "Next.js", "Node.js", "Express.js", "Laravel"]
+
+// 📚 Libraries & Tools
+Libraries: ["Redux", "Axios", "Mongoose"]
+
+// 🗄️ Databases
+Databases: {
+  SQL: ["MySQL"],
+  NoSQL: ["MongoDB"]
+}
+
+// 🧪 Dev Tools & Platforms
+Tools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel"]
+
+// 🎨 UI & Design
+Design: ["Adobe Photoshop", "Canva"]
+
+// ✅ Best Practices & Concepts
+Practices: [
+  "Agile (Scrum)",
+  "RESTful APIs",
+  "JWT Authentication",
+  "Responsive Design",
+  "Clean Code"
+]
+
+---
+
+## 📫 Let’s Connect!
+
+<p align="center">
+  <a href="www.linkedin.com/in/amira-zidi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amira_Zidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:zidiamira290@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Amira_Zidi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
