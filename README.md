@@ -19,18 +19,18 @@ Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Develope
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-
+---
 ### ⚙️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-
+---
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-
+---
 ### 🧪 Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -38,14 +38,14 @@ Welcome to my GitHub space! I’m Amira Zidi, a passionate **Full Stack Develope
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-
+---
 ### 🎨 Design  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
-
+---
 ### ✅ Methodologies  
 🔁 Agile (Scrum) ・ 🔐 JWT ・ 🔧 REST APIs ・ 📱 Responsive Design ・ 🧼 Clean Code
----
+
 ## 📫 Let's Connect!
 
 I'm always open to meaningful connections, collaborations, and coffee chats ☕  
