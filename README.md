@@ -1,8 +1,8 @@
-# 🌍 Amira Zidi — Full Stack MERN Developer | Digital Alchemist 🧪
+# 🌍 Amira Zidi — Full Stack MERN Developer | JS Instructor
 
-Hey there! I'm **Amira Zidi**, a curious mind who loves turning caffeine and code into intuitive, creative, and purposeful digital experiences.
+Hey there! I'm **Amira Zidi**, a curious mind who loves turning code into intuitive, creative, and purposeful digital experiences.
 
-I specialize in the **MERN stack**, sprinkle in some design thinking, and bring a strong foundation in **network security** — all while bridging cultures through tech. My goal? Build web solutions that *feel* like magic but run like clockwork.
+I specialize in the **MERN stack**. My goal? Build web solutions that *feel* like magic but run like clockwork.
 
 ---
 
@@ -10,9 +10,9 @@ I specialize in the **MERN stack**, sprinkle in some design thinking, and bring 
 
 - 🎓 **BSc in Network Security** — ISET Gabès, Tunisia *(Class of 2024)*  
 - 🧑‍💻 **Full Stack Bootcamp Warrior** — GoMyCode *(Oct 2024 – Feb 2025)*  
-- 🛠️ From **freelancer** to **solution builder** — crafting everything from landing pages to LMS platforms  
+- 🛠️ From **freelancer** to **solution builder** — crafting everything from landing pages to big platforms  
 - 💡 Addicted to **problem-solving**, clean code, and shipping features that users actually love  
-- 🌍 Fluent in **Arabic 🇹🇳**, **French 🇫🇷**, **English 🇬🇧**, and **Turkish 🇹🇷** — I speak code and culture  
+- 🌍 Fluent in **Arabic 🇹🇳**, **French 🇫🇷**, **English 🇬🇧**, and **Turkish 🇹🇷**   
 
 ---
 
@@ -42,8 +42,6 @@ I specialize in the **MERN stack**, sprinkle in some design thinking, and bring 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
 ### 🎨 Design Tools  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
