@@ -196,7 +196,7 @@ A collaborative travel platform combining **social features, trip planning, and 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/AmiraZidi/AmiraZidi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </p>
 
@@ -218,3 +218,35 @@ Modern Web Development
 ├── Scalable APIs
 ├── Performance Optimization
 └── Production Architecture
+
+## ☕ Let's Connect
+
+I'm currently open to **PFE internships, full-stack opportunities, freelance projects, and collaborations** in:
+
+**Full Stack Development · AI Engineering · LLM Applications · Automation · EdTech · SaaS**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amira-zidi">
+  <img src="https://img.shields.io/badge/LinkedIn-Amira_Zidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zidiamira290@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Building software. Exploring AI. Creating impact.
+
+</p>
+
+<p align="center">
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</p>
