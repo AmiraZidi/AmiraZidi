@@ -199,9 +199,7 @@ A collaborative travel platform combining **social features, trip planning, and 
 <img src="https://raw.githubusercontent.com/AmiraZidi/AmiraZidi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </p>
-
 ---
-
 ## 🌱 Currently Exploring
 
 ```text
@@ -211,14 +209,18 @@ AI Engineering
 ├── AI Automation
 ├── Prompt Engineering
 └── AI-powered Developer Tools
+```
 
+```text
 Modern Web Development
 ├── Next.js
 ├── TypeScript
 ├── Scalable APIs
 ├── Performance Optimization
 └── Production Architecture
+```
 
+---
 ## ☕ Let's Connect
 
 I'm currently open to **PFE internships, full-stack opportunities, freelance projects, and collaborations** in:
@@ -226,27 +228,21 @@ I'm currently open to **PFE internships, full-stack opportunities, freelance pro
 **Full Stack Development · AI Engineering · LLM Applications · Automation · EdTech · SaaS**
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/amira-zidi">
-  <img src="https://img.shields.io/badge/LinkedIn-Amira_Zidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:zidiamira290@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/amira-zidi">
+    <img src="https://img.shields.io/badge/LinkedIn-Amira_Zidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zidiamira290@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### 💡 Building software. Exploring AI. Creating impact.
-
+  <b>💡 Building software. Exploring AI. Creating impact.</b>
 </p>
 
 <p align="center">
-
-⭐ Feel free to explore my repositories and connect with me!
-
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>
