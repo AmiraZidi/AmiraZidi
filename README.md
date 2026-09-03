@@ -118,18 +118,17 @@ Client projects have involved:
  
 ## 📌 Featured Projects
  
-### 🇫🇷 Solutions Langues — AI Visibility & GEO Optimization
+### 💻 Solutions Langues — Full-Stack Development & AI Visibility
 
-A production React platform for a French language school in Quebec, optimized for discoverability across both traditional and AI-driven search.
+A production React platform for a French language school in Quebec, with a focus on **technical SEO, AI search visibility, and production performance**.
 
-**React (CRA) · Vercel · react-snap · Structured Data**
+**React (CRA) · Vercel · react-snap · JSON-LD · SEO/GEO**
 
-- 🕸️ Pre-rendering setup with react-snap for crawlable static output
-- 🏷️ JSON-LD structured data implementation
-- 🐛 Vercel build error resolution & deployment stabilization
-- 🔎 Generative Engine Optimization (GEO) for AI search visibility
-- 🛣️ Roadmap defined for Next.js migration (SSR/SEO upgrade)
-
+- 🕸️ Implemented **pre-rendering with react-snap** to improve crawlability and indexing
+- 🏷️ Added **JSON-LD structured data** to improve search engine understanding
+- 🔧 Resolved **Vercel build and deployment issues** and stabilized the production environment
+- 🔎 Implemented **Generative Engine Optimization (GEO)** strategies to improve visibility across AI-powered search
+- 🛣️ Defined a **Next.js migration roadmap** to enable SSR, improved SEO, and better performance
 ---
 
 ### 🧹 Propreté Clarenza — Full-Stack Business Platform
