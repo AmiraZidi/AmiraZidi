@@ -164,6 +164,11 @@ A production React platform for a French language school in Quebec, with a focus
 - 🔎 Worked on **Generative Engine Optimization (GEO)** strategies for improved visibility across AI-driven search experiences
 - 🛣️ Defined a **Next.js migration roadmap** to support SSR, improved SEO, and better performance
 
+### 🔗 Project Links
+
+🌐 [Live Website](https://solutionslangues.com/)  
+📄 [Technical Documentation](YOUR_DOCUMENTATION_LINK)
+
 ---
 
 ### 🧹 Propreté Clarenza — Full-Stack Business Platform
@@ -179,19 +184,27 @@ A complete web application for a professional cleaning services company, coverin
 - 💬 Client testimonials and quick-contact functionality
 - 🔌 Full frontend/backend communication through REST APIs
 
+### 🔗 Project Links
+
+🌐 [Live Website](https://propreteclarenza.ca/)  
+📄 [Technical Documentation](YOUR_DOCUMENTATION_LINK)
+
 ---
 
-### 🎓 Learning Management Platform
+### 🎓 Learning Management Platform — In Development
 
-A full-stack learning platform designed around course management, student workflows, authentication, and online learning experiences.
+A full-stack learning platform currently in development, designed around **course management, student workflows, authentication, and online learning experiences**.
 
 **Next.js · Node.js · Express · MongoDB**
 
 - 🔐 Authentication and authorization
-- 📚 Course management
+- 📚 Course and content management
 - 👨‍🎓 Student learning workflows
 - 📊 Learning dashboards
 - 🔌 REST API architecture
+- 🧩 Full-stack application architecture
+
+> 🚧 **Status:** Currently in development
 
 ---
 
@@ -228,6 +241,13 @@ AI Engineering
 ├── AI Automation
 ├── Prompt Engineering
 └── AI-powered Developer Tools
+```
+```text
+Mobile Development
+├── Flutter
+├── Cross-platform Applications
+├── Firebase Integration
+└── Mobile App Architecture
 ```
 ```text
 Modern Web Development
