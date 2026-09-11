@@ -140,7 +140,7 @@ Client projects have involved:
 
 ### 🧠 Engineering Practices
 
-`REST APIs` · `Authentication & Authorization` · `API Security` · `Responsive Design` · `Clean Code` · `Git/GitHub` · `Agile/Scrum` · `SEO` · `GEO` · `CI/CD` · `Product Thinking`
+`REST APIs` · `Authentication & Authorization` · `API Security` · `Responsive Design` · `Clean Code` · `Git/GitHub` · `Agile/Scrum` · `SEO` · `GEO` · `CI/CD with GitHub Actions` · `Product Thinking`
 
 ---
 
