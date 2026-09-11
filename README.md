@@ -228,7 +228,8 @@ AI Engineering
 ├── AI Automation
 ├── Prompt Engineering
 └── AI-powered Developer Tools
-
+```
+```text
 Modern Web Development
 ├── Next.js
 ├── TypeScript
