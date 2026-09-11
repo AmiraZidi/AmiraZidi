@@ -4,6 +4,9 @@ Hi, I'm **Amira**, a Full Stack Developer from Tunisia passionate about building
 
 I work primarily with the **JavaScript/TypeScript ecosystem**, building applications across the full development lifecycle — from frontend architecture and backend APIs to databases, deployment, optimization, and production troubleshooting.
 
+🎯 **Currently seeking a 6-month PFE internship starting February 2027**  
+📍 Based in Tunisia · Open to **Europe, remote, hybrid, and international opportunities**
+
 ---
 
 ## ⚡ About Me
@@ -36,7 +39,7 @@ I build production-oriented web applications across the frontend and backend.
 
 I'm currently exploring how **LLMs, intelligent automation, and AI-assisted workflows** can be integrated into real-world software products.
 
-My current areas of interest include:
+Current areas of interest:
 
 - LLM applications
 - AI-assisted workflows
@@ -46,7 +49,7 @@ My current areas of interest include:
 
 ### 🔎 AI Visibility & GEO
 
-I have worked on improving how production websites are understood and discovered across both traditional search engines and emerging AI-driven search experiences.
+I've worked on improving how production websites are understood and discovered across both traditional search engines and emerging AI-driven search experiences.
 
 My work includes:
 
@@ -63,7 +66,7 @@ I'm interested in designing and building digital platforms that solve practical 
 
 My work has included:
 
-- Education and learning management platforms
+- Learning management platforms
 - Student and course workflows
 - Authentication and user management
 - Exam-preparation systems
@@ -92,7 +95,7 @@ Client projects have involved:
 - Performance optimization
 - Third-party API integrations
 
-> 🔒 Client source code remains private. Selected projects and technical case studies are documented separately.
+> 🔒 Client source code remains private. Selected projects and technical case studies are documented below.
 
 ---
 
@@ -125,6 +128,12 @@ Client projects have involved:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
+### 🤖 AI & Developer Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
+
 ### ☁️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
@@ -140,7 +149,7 @@ Client projects have involved:
 
 ### 🧠 Engineering Practices
 
-`REST APIs` · `Authentication & Authorization` · `API Security` · `Responsive Design` · `Clean Code` · `Git/GitHub` · `Agile/Scrum` · `SEO` · `GEO` · `CI/CD with GitHub Actions` · `Product Thinking`
+`REST APIs` · `Authentication & Authorization` · `API Security` · `Responsive Design` · `Clean Code` · `Git/GitHub` · `Agile/Scrum` · `SEO` · `GEO` · `Product Thinking`
 
 ---
 
@@ -155,13 +164,13 @@ A production React platform for a French language school in Quebec, with a focus
 - 🕸️ Implemented **pre-rendering with react-snap** to improve crawlability and indexing
 - 🏷️ Added **JSON-LD structured data** to improve search engine understanding
 - 🔧 Resolved **Vercel build and deployment issues** and stabilized the production environment
-- 🔎 Worked on **Generative Engine Optimization (GEO)** strategies for improved visibility across AI-driven search experiences
+- 🔎 Worked on **Generative Engine Optimization (GEO)** strategies for AI-driven search experiences
 - 🛣️ Defined a **Next.js migration roadmap** to support SSR, improved SEO, and better performance
 
 ### 🔗 Project Links
 
 🌐 [Live Website](https://solutionslangues.com/)  
-📄 [Technical Documentation](YOUR_DOCUMENTATION_LINK)
+📄 [Technical Documentation](YOUR_SOLUTIONS_LANGUES_DOCUMENTATION_LINK)
 
 ---
 
@@ -171,7 +180,7 @@ A complete web application for a professional cleaning services company, coverin
 
 **React · Tailwind CSS · Node.js · Express · JWT**
 
-- 💰 Interactive real-time quote estimator based on surface area, service type, and frequency
+- 💰 Interactive quote estimator based on surface area, service type, and frequency
 - 🖼️ Before/after visual comparison experience
 - 🔐 JWT-secured admin dashboard with protected routes
 - 📊 Quote and contact request management with status tracking and filtering
@@ -181,7 +190,7 @@ A complete web application for a professional cleaning services company, coverin
 ### 🔗 Project Links
 
 🌐 [Live Website](https://propreteclarenza.ca/)  
-📄 [Technical Documentation](YOUR_DOCUMENTATION_LINK)
+📄 [Technical Documentation](YOUR_PROPRETE_CLARENZA_DOCUMENTATION_LINK)
 
 ---
 
@@ -216,16 +225,6 @@ A collaborative travel platform combining **social features, trip planning, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiraZidi&show_icons=true&theme=transparent&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraZidi&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Learning & Exploring
 
 ```text
@@ -253,10 +252,13 @@ Modern Web Development
 ```
 ---
 ## ☕ Let's Connect
- 
-I'm currently open to **PFE internships, full-stack opportunities, freelance projects, and collaborations** in:
- 
-**Full Stack Development · AI Engineering · LLM Applications · Automation · EdTech · SaaS**
+I'm currently seeking a **6-month PFE internship** starting **January 2027**.
+
+I'm open to  **presential**, **hybrid**, and **remote opportunities**, particularly with international teams working on:
+
+**Full Stack Development · AI Engineering · LLM Applications · Automation · SaaS · Medical & Healthcare Projects · EdTech**
+
+📍 Based in Tunisia · Open to international opportunities
  
 📩 [LinkedIn](https://www.linkedin.com/in/amira-zidi) · [Email](mailto:zidiamira290@gmail.com)
  
